@@ -1,0 +1,1 @@
+# vs-simple-library-case
